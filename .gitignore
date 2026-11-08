@@ -1,45 +1,4 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.pyo
-*.pyd
-.Python
-
-# Virtual Environment
 venv/
-env/
-ENV/
-.venv/
-
-# Environment Variables
+__pycache__/
 .env
-.env.local
-.env.*.local
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Data & Models
-data/
-*.pdf
-*.csv
-*.json
-chroma_db/
-faiss_index/
-
-# Logs
-*.log
-logs/
-
-# Distribution / Build
-dist/
-build/
-*.egg-info/
+*.pyc
